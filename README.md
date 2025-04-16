@@ -1,8 +1,10 @@
 # Description of VeinDeep program
 
-This program is called VeinDeep. It is designed to compute a score of similarity between 2 vein patterns using 3 algorithms. The vein patterns are captured using a Kinect V2. A subject's hand is made into a fist and centred into the field of view of Kinect. The back of the hand is recorded using the IR and depth recording capabilities of Kinect. Such images can be used to identify people. The idea is in the future smartphones will be equipped with Kinect like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone.
+VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person’s hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone. This project was created during my PhD. The associated research paper was presented at PerCom 2017.
 
-VeinDeep was created during my PhD. The research paper "VeinDeep: Smartphone unlock using vein patterns" was presented at PerCom 2017. My research is in Ubiquitous Computing and Computer Vision. If you use this work please consider citing our paper.
+This is the code for VeinDeep.
+
+If you use this work please consider citing our paper.
 
 ```
 @inproceedings{zhong2017veindeep,
@@ -15,7 +17,7 @@ VeinDeep was created during my PhD. The research paper "VeinDeep: Smartphone unl
 }
 ```
 
-The code, data and paper can be downloaded at the following link.
+The code, data and paper can be downloaded from the following page.
 
 ```
 https://hzhongresearch.github.io/
