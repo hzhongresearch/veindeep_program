@@ -4,7 +4,7 @@ VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein pa
 
 This is the code for VeinDeep.
 
-If you use this work please consider citing our paper.
+If you use this work please cite our paper.
 
 ```
 @inproceedings{zhong2017veindeep,
